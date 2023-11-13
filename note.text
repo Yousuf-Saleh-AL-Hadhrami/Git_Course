@@ -1,0 +1,9 @@
+Git Commands :
+
+1- git status                   => showes what is tracked or untracked files 
+2- git add                      => filename.css index.html or all by using *  => from working directory to staging area 
+3- git reset head filename.css  => to untrack the file means return it from staging area to working directory
+4- git commit -m "Created The Project Strucure" => changed the files or changes from staging area to local repository 
+5- git branch                   => showes the current local branch means later will have many local branches 
+6- git push   or use or+table will complete it   => git push origin push to origin the main
+7- git remote -v                => showes the remote repositories 
