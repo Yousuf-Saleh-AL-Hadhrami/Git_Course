@@ -7,3 +7,9 @@ Git Commands :
 5- git branch                   => showes the current local branch means later will have many local branches 
 6- git push                      Accept RemoteName BranchName that I am working on 
 7- git remote -v                => showes the remote repositories 
+8- git pull origin              => fetches and merging the updates from the remote repo to the local repo 
+
+Note : The One who create the Repository can added as many members to participate with him in the project 
+       He will receive a request in email to join the repository he can the make a clone to his local repository and git pull origin 
+       by using the command git pull this command fetch and merege the updates from the remote repo. 
+
